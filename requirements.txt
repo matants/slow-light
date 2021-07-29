@@ -1,0 +1,7 @@
+torch
+numpy
+tensorboard
+pillow
+matplotlib
+pandas
+seaborn
